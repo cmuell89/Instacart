@@ -1,0 +1,8 @@
+# Pycharm IDE specific
+/.idea
+
+# Ignore the data directory.
+/data
+
+# Ignore the env folder
+/env
