@@ -2,6 +2,8 @@
 
 Lightning in a Bot, Inc is performing a basic analysis and prediction entry for Instacart's Kaggle Competition.
 
+https://www.kaggle.com/c/instacart-market-basket-analysis
+
 ### Setup
 ##### Data
 Download the Instacart data set and unzip all archived files.

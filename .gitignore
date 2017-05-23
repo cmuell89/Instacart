@@ -1,6 +1,9 @@
 # Pycharm IDE specific
 /.idea
 
+# IPython Notebook
+/.ipynb_checkpoints
+
 # Ignore the data directory.
 /data
 
